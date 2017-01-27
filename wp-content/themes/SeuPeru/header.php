@@ -8,8 +8,8 @@
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php endif; ?>
 	<?php wp_head(); ?>
-	<link href="<?php bloginfo('template_directory'); ?>/css/bootstrap.min.css" rel="stylesheet">
-	<link href="<?php bloginfo('template_directory'); ?>/css/jra.css" rel="stylesheet">
+	<link href="<?php bloginfo('template_directory'); ?>/assets/css/bootstrap.min.css" rel="stylesheet">
+	<link href="<?php bloginfo('template_directory'); ?>/assets/css/meucss.css" rel="stylesheet">
 </head>
 
 <body>
